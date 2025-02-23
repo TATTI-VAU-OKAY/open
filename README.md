@@ -5,4 +5,4 @@ git clone https://github.com/TATTI-VAU-OKAY/open
 
 cd open
 
-python old.py
+python old_v3.2.py
